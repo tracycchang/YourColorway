@@ -6,7 +6,7 @@ Do you ever wonder how they come up with such amazing color schemes??
 Do you ever have difficulty picturing certain colors together to see if they work?
 
 ## Solution
-YOUR COLORWAY will allow you to select colors and see them side by side!
+YOUR COLORWAY will allow you to select unique colors and see them side by side!
 
 ## Technical Challenges
 - Front end renders but back end unable to GET/POST saved color ways in our PostgreSQL (elephantSQL) database. 
